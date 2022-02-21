@@ -18,7 +18,9 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 60%;
+    border-radius: 10px;
+    background-color: #FE5E41;
+    width: 50%;
     height: 80%;
     border: 1px solid #f1f1f1;
 }
